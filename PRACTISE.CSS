@@ -1,0 +1,27 @@
+ header{
+    padding-left: 2px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: aqua;
+    background-color: aliceblue;
+    position: absolute;
+
+
+}
+.container-skills{
+padding-bottom: 6px;
+padding-top: 4px;
+margin: 0ch;
+font-style: oblique;
+background-color: aquamarine;
+color: black;
+flex-direction: column;
+text-align: center;
+}
+.container-contact{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    flex-direction: column;
+    text-align: center;
+}
